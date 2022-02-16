@@ -1,9 +1,9 @@
-/* @author smk*/
-<h1>Temperature Converter</h1><br>
-<h3>C = (F-32).5/9</h3><br>
-<h3>F = C.9/5+32</h3><br>
-<p> conversion from Fahrenheit to Celsius and from Celsius to Fahrenheit.Taking input and performing operations using mathametical formula inorder to convert</p><br>
-<h2> done by @smk</h2>
+/* @author @smk
+Temperature Converter
+C = (F-32).5/9
+F = C.9/5+32
+conversion from Fahrenheit to Celsius and from Celsius to Fahrenheit.Taking input and performing operations using mathametical formula inorder to convert*/
+
 package prj;
 import java.util.Scanner;
 public class temp 
